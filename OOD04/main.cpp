@@ -7,9 +7,16 @@
 //
 
 #include <iostream>
-
+/*
 int main(int argc, const char * argv[]) {
     // insert code here...
-    std::cout << "Hello, World!\n";
-    return 0;
+    std::string s;
+    std::cout << "문자를 입력하세요(100자 이내)." << std::endl;
+    std::cin >> s;
+    std::cout << "입력된 문자는 " << s << "입니다." << std::endl;
+    
+    // sysytem("pause"); // keep terminal open
+    
+     return 0;
 }
+*/
